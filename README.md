@@ -449,6 +449,6 @@ All configuration via environment variables (see `.env.example`):
 - `COOKIE_SECURE`: Set to `true` in production with HTTPS
 - `ENVIRONMENT`: `development` or `production`
 
-## License
+## Authour
 
-MIT
+Caleb Wodi
