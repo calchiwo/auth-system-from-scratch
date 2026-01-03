@@ -453,4 +453,5 @@ All configuration via environment variables (see `.env.example`):
 
 Caleb Wodi
 
-* Twitter
+* [Twitter](https://x.com/calchiwo)
+* [Linkedlin](https://linkedin.com/in/calchiwo)
