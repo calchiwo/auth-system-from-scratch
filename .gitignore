@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Migrations
+migrations/versions/__pycache__/
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# Test / cache
+.pytest_cache/
